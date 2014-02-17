@@ -44,5 +44,7 @@ H<sub>2</sub>0
     </li>
     <li>third element</li>
 </ol>
+<br>
+<img src="1.jpg" alt="image" title="Doctor is coming" width="" height="250">
 </body>
 </html>
