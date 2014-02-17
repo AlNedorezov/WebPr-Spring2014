@@ -49,7 +49,7 @@ H<sub>2</sub>0
 <br>
 <a href="http://twitter.com/AlNedorezov" title="Follow AlNedorezov on twitter">Follow me on twitter</a>
 <br>
-<table>
+<table border="1">
     <tr><th>1</th><th>2</th></tr>
     <tr><td>3</td><td>4</td></tr>
 </table>
