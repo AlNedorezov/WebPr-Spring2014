@@ -3,6 +3,7 @@
 <header>
     <meta name="keywords" content="bla-bla-bla">
     <meta name="description" content="bla-bla-bla site">
+    <meta http-equiv="Content-Type" content="text/html" charset="ANSI"/>
 </header>
 </body>
     <?php
