@@ -15,3 +15,8 @@
 .red {
         background-color: #f00;
      }
+.head {
+         font-family: Verdana;
+         font-size: 10pt;
+         font-weight: bold;
+      }

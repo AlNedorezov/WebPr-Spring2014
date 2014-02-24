@@ -8,13 +8,13 @@
 </header>
 </body>
     <?php
-        echo "<p>Text</p>";
+        echo "<p>Занятие №3</p>";
     ?>
 
 <table border="1" style="width: 100%">
-    <tr><th>ID</th><th>Название</th><th>Автор</th><th>Описание</th><th>ISBN</th><th>Цена</th><th>Наличие</th></tr>
+    <tr class="head"><th>ID</th><th>Title</th><th>Author</th><th>Description</th><th>ISBN</th><th>Price</th><th>Availability</th></tr>
     <tr class="odd">
-        <td style="text-align: center">Text</td>
+        <td style="text-align: center">1</td>
         <td style="text-align: center">Text</td>
         <td style="text-align: center">Text</td>
         <td style="text-align: center">Text</td>
@@ -23,7 +23,7 @@
         <td style="text-align: center" class="green">Text</td>
     </tr>
     <tr class="even">
-        <td style="text-align: center">Text</td>
+        <td style="text-align: center">2</td>
         <td style="text-align: center">Text</td>
         <td style="text-align: center">Text</td>
         <td style="text-align: center">Text</td>
@@ -32,22 +32,22 @@
         <td style="text-align: center" class="red">Text</td>
     </tr>
     <tr class="odd">
-        <td style="text-align: center">Text</td>
-        <td style="text-align: center">Text</td>
-        <td style="text-align: center">Text</td>
-        <td style="text-align: center">Text</td>
-        <td style="text-align: center">Text</td>
-        <td style="text-align: center">Text</td>
-        <td style="text-align: center" class="green">Text</td>
-    </tr>
-    <tr class="even">
-        <td style="text-align: center">Text</td>
+        <td style="text-align: center">3</td>
         <td style="text-align: center">Text</td>
         <td style="text-align: center">Text</td>
         <td style="text-align: center">Text</td>
         <td style="text-align: center">Text</td>
         <td style="text-align: center">Text</td>
         <td style="text-align: center" class="red">Text</td>
+    </tr>
+    <tr class="even">
+        <td style="text-align: center">4</td>
+        <td style="text-align: center">Text</td>
+        <td style="text-align: center">Text</td>
+        <td style="text-align: center">Text</td>
+        <td style="text-align: center">Text</td>
+        <td style="text-align: center">Text</td>
+        <td style="text-align: center" class="green">Text</td>
     </tr>
 </table>
 </body>
