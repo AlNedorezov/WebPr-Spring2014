@@ -2,3 +2,16 @@
         background: #dbdcdb url(back.png) repeat;
 		width: 98%;
      }
+.odd
+     {
+        
+     }
+.even {
+         background-color: #dbdcdb;
+      }
+.green {
+         background-color: #00ff21;
+       }
+.red {
+        background-color: #f00;
+     }
