@@ -21,6 +21,22 @@
             $letter_number=rand(0, $i);
             print $a[$letter_number];
         }
+        
+        echo "<hr><br>";
+        $array=array();
+        for ($i=0; $i<1000; $i++)
+        {
+            $letter_number=rand(0, 9);
+            $array[]=$letter_number;
+        }
+        for ($i=0; $i<1000; $i++)
+        {
+           if($array[$i]==5) { $u++; }
+        }
+        print $u;
+
+        // Создать массив со структурированной информацией для таблицы ниже, циклом выводить таблицу книг из этого массива
+
     ?>
 <br><hr><br>
 
