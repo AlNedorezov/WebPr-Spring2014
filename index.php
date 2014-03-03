@@ -13,6 +13,7 @@
 <ol>
 <li><a href="/page2.php" title="page2">Результаты занятия №2</a></li>
 <li><a href="/page3.php" title="page3">Результаты занятия №3</a></li>
+<li><a href="/page4.php" title="page3">Результаты занятия №4</a></li>
 </ol>
 </body>
 </html>
